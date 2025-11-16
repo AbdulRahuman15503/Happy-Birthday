@@ -6,12 +6,12 @@ body {
   background-repeat: no-repeat;
   font-size: 10px;
   font-family: Merriweather;
-  color:'#EECB9C';
+  color:Peach-Orange;
   overflow: auto;
   text-align: justify;
 }
 a {
-  color: '#EECB9C';
+  color: Peach-Orange;
   font-size: 10px;
 }
 #main {
@@ -33,7 +33,7 @@ a {
 }
 #code {
   display: none;
-  color: rgb(196, 255, 255);
+  color: rgb(238, 203, 156);
   font-size: 10px;
   margin-top: 70px;
   line-height: 25px;
@@ -48,14 +48,14 @@ a {
   display: none;
 }
 #clock-box a {
-  font-size: 22px;
+  font-size: 20px;
   text-decoration: none;
 }
 #clock {
   margin-left: 48px;
 }
 #clock .digit {
-  font-size: 64px;
+  font-size: 48px;
 }
 #canvas {
   margin: 0 auto;
@@ -87,3 +87,4 @@ a {
 
 
 }
+
