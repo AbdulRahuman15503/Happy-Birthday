@@ -6,12 +6,12 @@ body {
   background-repeat: no-repeat;
   font-size: 10px;
   font-family: Merriweather;
-  color:Peach-Orange;
+  color:rgb(238, 203, 156);
   overflow: auto;
   text-align: justify;
 }
 a {
-  color: Peach-Orange;
+  color:rgb(238, 203, 156);
   font-size: 10px;
 }
 #main {
@@ -81,10 +81,12 @@ a {
 #message-box{
   position: absolute;
   margin-top:430px;
+  color:rgb(238, 203, 156);
   font-size: 20px;
   font-family: Merriweather;
   font-style: italic;
 
 
 }
+
 
