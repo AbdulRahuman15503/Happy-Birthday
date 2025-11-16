@@ -5,13 +5,13 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   font-size: 10px;
-  font-family: sans-serif;
-  color: white;
+  font-family: Merriweather;
+  color:'#EECB9C';
   overflow: auto;
   text-align: justify;
 }
 a {
-  color: white;
+  color: '#EECB9C';
   font-size: 10px;
 }
 #main {
@@ -43,12 +43,12 @@ a {
 #clock-box {
   position: absolute;
   left: 60px;
-  top: 550px;
-  font-size: 28px;
+  top: 570px;
+  font-size: 25px;
   display: none;
 }
 #clock-box a {
-  font-size: 25px;
+  font-size: 22px;
   text-decoration: none;
 }
 #clock {
@@ -82,7 +82,8 @@ a {
   position: absolute;
   margin-top:430px;
   font-size: 20px;
-  font-family: monospace;
+  font-family: Merriweather;
   font-style: italic;
+
 
 }
